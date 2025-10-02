@@ -1,4 +1,4 @@
-# legion.cc — Developer Experience Starter Kit
+# Developer Experience Starter Kit
 
 Этот пакет — готовый каркас DX: спецификация OpenAPI, шаблон SDK на TypeScript и примеры.
 Задача: чтобы новый разработчик получил **первый успешный вызов API за < 5 минут**.

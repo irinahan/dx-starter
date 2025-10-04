@@ -16,3 +16,4 @@ cd sdk-js
 npm install
 npm run build
 node dist/examples/balance.js
+## update
